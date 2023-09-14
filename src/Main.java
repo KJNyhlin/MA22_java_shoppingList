@@ -6,10 +6,8 @@ public class Main {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
         //Skapa ett program som läser in produkter i en matlista
-        // tills att användaren skriver "done". Malistan får max innehålla 10 produkter.
-        //Level up
-        //
-        //Ifall användaren skriver in fler än 10 produkter ska programmet
+        // tills att användaren skriver "done".
+        //Ifall användaren skriver in fler än MAX_SIZE antal produkter ska programmet
         // fråga vilken vara användaren vill ersätta den nya varan med.
 
         Scanner sc = new Scanner(System.in);
